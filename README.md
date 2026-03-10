@@ -1,4 +1,3 @@
-5"}
 # 🌦️ Python Weather App
 
 This is a simple Python project that shows real-time weather information for any city using the OpenWeather API.
